@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "曇りの月",
+  "base_artist": "とた",
+  "createdAt": "2026-02-16T05:23:34.477903Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "曇りの月",
+      "artist": "とた",
+      "has_synced": false,
+      "path": "select/pl_01_曇りの月_とた.txt"
+    }
+  ]
+}
